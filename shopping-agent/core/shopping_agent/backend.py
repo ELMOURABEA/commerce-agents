@@ -1,4 +1,4 @@
-# Copyright 2026 Anthropic PBC
+# Copyright 2026 Anthropic PBC and frok ELMOURABEA
 # SPDX-License-Identifier: Apache-2.0
 
 """The StorefrontBackend interface: the one integration surface an adopter implements,
